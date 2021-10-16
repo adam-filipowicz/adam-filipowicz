@@ -1,3 +1,5 @@
+<img src="https://github.com/adam-filipowicz/adam-filipowicz/blob/main/index.png">
+
 ### Hi there 👋
 
 <!--
